@@ -1,0 +1,8 @@
+streamlit
+pandas
+transformers
+torch
+openai
+plotly
+wordcloud
+fpdf
